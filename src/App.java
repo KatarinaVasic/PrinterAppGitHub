@@ -25,10 +25,10 @@ public class App {
     double subtraction = number1 - number2;
     String result4 = String.format("%.2f ", subtraction);
     
-    System.out.println (number1 + "*" + number2 + "=" + result1);
-    System.out.println (number1 + "+" + number2 + "=" + result2);
-    System.out.println (number1 + "/" + number2 + "=" + result3);
-    System.out.println (number1 + "-" + number2 + "=" + result4);
+    System.out.println (number1 + " * " + number2 + " = " + result1);
+    System.out.println (number1 + " + " + number2 + " = " + result2);
+    System.out.println (number1 + " / " + number2 + " = " + result3);
+    System.out.println (number1 + " - " + number2 + " = " + result4);
 
     // Multiplication part, subtraction, division, sum
 
